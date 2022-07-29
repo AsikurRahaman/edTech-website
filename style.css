@@ -2,3 +2,7 @@
     background: rgba(29, 29, 29, 0.7);
     border-radius: 5px;
 }
+.accordion-custom{
+    max-width: 900px;
+    margin: 0 auto;
+}
