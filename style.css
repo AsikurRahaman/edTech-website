@@ -22,4 +22,8 @@ body{
 }
 .courses-h1f{
     font-size:30px;
+}   
+.accordion-button:not(.collapsed){
+    color:black;
+    font-weight: 700;
 }
