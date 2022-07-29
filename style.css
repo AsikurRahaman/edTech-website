@@ -17,6 +17,15 @@ body{
 .top-30{
     top:30%;
 }
+.top-20{
+    top:20%;
+}
+.small-h{
+    font-size: 20px;
+}
+.small-text{
+    font-size: 12px;
+}
 .section-mt{
     margin-top:100px;
 }
