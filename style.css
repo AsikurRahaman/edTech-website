@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.poppins-font{
+    font-family: 'Poppins', sans-serif;
+}
 .img-bg{
     background: rgba(29, 29, 29, 0.7);
     border-radius: 5px;
@@ -5,4 +13,10 @@
 .accordion-custom{
     max-width: 900px;
     margin: 0 auto;
+}
+.top-30{
+    top:30%;
+}
+.section-mt{
+    margin-top:100px;
 }
